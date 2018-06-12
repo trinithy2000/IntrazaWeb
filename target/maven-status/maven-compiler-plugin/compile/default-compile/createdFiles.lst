@@ -1,0 +1,16 @@
+com\intraza\rest\db\datos\Articulo.class
+com\intraza\rest\InTrazaWSApplication.class
+com\intraza\rest\InTrazaWS.class
+com\intraza\rest\util\NamedParamStatement.class
+com\intraza\rest\db\datos\Cliente.class
+com\intraza\rest\db\datos\ResultadoConsultaDato.class
+com\intraza\rest\db\datos\JsonLineaPedido.class
+com\intraza\rest\db\datos\JsonPedido.class
+com\intraza\rest\db\datos\Totales.class
+com\intraza\rest\db\datos\ResultadoDatosRutero.class
+com\intraza\rest\db\datos\ResultadoEnvioPedido.class
+com\intraza\rest\PropiedadesConfiguracion.class
+com\intraza\rest\db\datos\Prepedido.class
+com\intraza\rest\db\JDBCQuery.class
+com\intraza\rest\db\datos\Rutero.class
+com\intraza\rest\db\datos\ResultadoDatosRuteroTarifa.class
